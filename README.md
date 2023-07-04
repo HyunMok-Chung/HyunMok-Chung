@@ -3,9 +3,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyunMok-Chung&count_bg=%2332EA37&title_bg=%2315CAB1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunMok-Chung&show_icons=true&theme=nightowl)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunMok-Chung&show_icons=true&theme=nightowl)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codo)](https://solved.ac/codo/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunMok-Chung&langs_count=10&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunMok-Chung&langs_count=10&layout=compact&theme=nightowl)]()
 
 # Contacts ✉️
 [![Tech Blog Badge](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=Notion&link=https://childlike-safflower-9d4.notion.site/Mok-s-STUDY-ROOM-583c9384574c46b38f363a5118f77a3c/)](https://childlike-safflower-9d4.notion.site/Mok-s-STUDY-ROOM-583c9384574c46b38f363a5118f77a3c)
